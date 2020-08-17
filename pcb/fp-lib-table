@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ATMEGA328-PU)(type Legacy)(uri "${KIPRJMOD}/deps/ATMEGA328-PU.mod")(options "")(descr ""))
+  (lib (name ATMEGA328)(type KiCad)(uri "\"${KIPRJMOD}/deps/ATMEGA328.kicad_mod\"")(options "")(descr ""))
+)
