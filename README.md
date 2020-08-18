@@ -6,6 +6,7 @@ This repo contains all needed files to create your own 3D printed Echo Com from 
 I put lots of images in the repo so the size got quite big, sorry for that 🤷‍♂️.
 
 If you need additional information or have any questions please just open an issue and I will try to answer it 😀.
+And please, if you decide to give it a shot and you use my model, please please send me pictures of the result! :) Just open an issue here to show of your amazing work.
 
 ## Printing
 - I printed all opaque parts with PLA filament with 0.15mm layer height.
