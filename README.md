@@ -38,6 +38,10 @@ If you need additional information or have any questions please just open an iss
  - Some sort of power source (I have not yet figured this out)
  - Wires (with correct heads depending on your pin headers)
 
+## Code
+The code is very, very unfinished!
+I recomment [Visual Studio Code](https://code.visualstudio.com/) to edit the code. The code is a [PlatformIO](https://platformio.org/) project, so I recommend the [PlatformIO extension](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) for VSCode.
+
 ## Images
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
