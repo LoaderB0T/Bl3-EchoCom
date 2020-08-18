@@ -1,6 +1,6 @@
 
 
-# Borderlands 3 - Echo Communicator
+# Borderlands 3 - Echo Device
 
 This repo contains all needed files to create your own 3D printed Echo Com from Borderlands 3.
 I put lots of images in the repo so the size got quite big, sorry for that 🤷‍♂️.
