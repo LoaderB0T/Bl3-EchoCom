@@ -19,7 +19,7 @@ And please, if you decide to give it a shot and you use my model, please please 
  - [4" TFT Display](https://www.waveshare.com/4inch-tft-touch-shield.htm)
 	 - I really recommend buying exactly this one as the 3D model is designed for exactly this product.
 	 - It was the only display I found that had the correct size for the EchoCom.
-	 - You have to remove the pin headers from the backside for it to fit into the model. The required wired then can be re-soldered with a thinner footprint.
+	 - You have to remove the pin headers from the backside for it to fit into the model. The required wires then can be re-soldered with a thinner footprint.
  - Custom PCB
 	 - You can find the KiCad project and a finished plot of the PCB in the `pcb` folder.
 	 - Use a service like [JLCPCB](jlcpcb.com) to have it manufactured or you can of course do it yourself :)
